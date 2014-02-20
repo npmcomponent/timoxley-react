@@ -1,7 +1,7 @@
 "use strict"
 
-var watch = require('watch').watch
-var Emitter = require('emitter')
+var watch = require('timoxley-watch').watch
+var Emitter = require('component-emitter')
 
 /**
  * Make an object react when changed.

@@ -1,0 +1,11 @@
+{
+  "name": "timoxley-react",
+  "description": "Emit reactive-compatible change events when an object's properties change.",
+  "version": "0.0.4",
+  "keywords": [],
+  "dependencies": {
+    "timoxley-watch": "git://github.com/npmcomponent/timoxley-watch.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
